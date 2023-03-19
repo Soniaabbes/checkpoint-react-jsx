@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background-color: #2c2c38;
+}
+p{ color: white; font-style: initial; font-size: x-large;}
+
+img{
+  height:500px; width: 500px;
+  pointer-events: none;
+}
+h1{color:#01be96 ; font-size:larger; font-weight: bolder;}
+
+.adresse{ font-size: larger; font-weight: 800; font-family:Verdana, Geneva, Tahoma, sans-serif;color: aliceblue;}
+.name{display:flex; justify-content: space-between; margin: 30px; padding:20px}
+.hobbies{display: flex; flex-direction: row; padding:200px ; margin:50px ;}
+.navbar{ font-size: medium; font-family: Arial, Helvetica, sans-serif; }
+.me-auto{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: larger;}
+.html,.css,.js,.react, .node{ width: 100px; height: 150px; margin-left: 60px; margin-right: 60px;}
+.images{display: flex; justify-content: space-between;}
